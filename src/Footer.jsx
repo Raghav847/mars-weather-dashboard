@@ -7,7 +7,7 @@ export default function Footer({ lastSol }) {
       <p className="mb-1">Last updated: Sol <span className="text-white font-medium">{lastSol}</span></p>
       <p>
         Built by <span className="text-white font-medium">Raghav Khandelwal</span> • 
-        <a href="https://github.com/your-username/mars-weather-dashboard" target="_blank" rel="noreferrer" className="ml-1 underline hover:text-white">View on GitHub</a>
+        <a href="https://github.com/Raghav847/mars-weather-dashboard" target="_blank" rel="noreferrer" className="ml-1 underline hover:text-white">View on GitHub</a>
       </p>
     </footer>
   );
